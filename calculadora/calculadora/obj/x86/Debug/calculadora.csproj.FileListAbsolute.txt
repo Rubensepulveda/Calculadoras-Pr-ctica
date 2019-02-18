@@ -1,0 +1,27 @@
+C:\Documents and Settings\Paola\Configuración local\Datos de programa\Temporary Projects\calculadora\bin\Debug\calculadora.exe
+C:\Documents and Settings\Paola\Configuración local\Datos de programa\Temporary Projects\calculadora\bin\Debug\calculadora.pdb
+C:\Documents and Settings\Paola\Configuración local\Datos de programa\Temporary Projects\calculadora\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Paola\Configuración local\Datos de programa\Temporary Projects\calculadora\obj\x86\Debug\calculadora.Form1.resources
+C:\Documents and Settings\Paola\Configuración local\Datos de programa\Temporary Projects\calculadora\obj\x86\Debug\calculadora.Properties.Resources.resources
+C:\Documents and Settings\Paola\Configuración local\Datos de programa\Temporary Projects\calculadora\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Paola\Configuración local\Datos de programa\Temporary Projects\calculadora\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Paola\Configuración local\Datos de programa\Temporary Projects\calculadora\obj\x86\Debug\calculadora.exe
+C:\Documents and Settings\Paola\Configuración local\Datos de programa\Temporary Projects\calculadora\obj\x86\Debug\calculadora.pdb
+C:\Documents and Settings\Paola\Mis documentos\MARCO\calculadora\calculadora\obj\x86\Debug\calculadora.exe
+C:\Documents and Settings\Paola\Mis documentos\MARCO\calculadora\calculadora\obj\x86\Debug\calculadora.pdb
+C:\Documents and Settings\Paola\Mis documentos\MARCO\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Documents and Settings\Paola\Mis documentos\MARCO\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Documents and Settings\Paola\Mis documentos\MARCO\calculadora\calculadora\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Paola\Mis documentos\MARCO\calculadora\calculadora\obj\x86\Debug\calculadora.Form1.resources
+C:\Documents and Settings\Paola\Mis documentos\MARCO\calculadora\calculadora\obj\x86\Debug\calculadora.Properties.Resources.resources
+C:\Documents and Settings\Paola\Mis documentos\MARCO\calculadora\calculadora\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Paola\Mis documentos\MARCO\calculadora\calculadora\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dell-Laptop\Desktop\Nueva carpeta (2)\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\Dell-Laptop\Desktop\Nueva carpeta (2)\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\Dell-Laptop\Desktop\Nueva carpeta (2)\calculadora\calculadora\obj\x86\Debug\calculadora.csprojAssemblyReference.cache
+C:\Users\Dell-Laptop\Desktop\Nueva carpeta (2)\calculadora\calculadora\obj\x86\Debug\calculadora.Form1.resources
+C:\Users\Dell-Laptop\Desktop\Nueva carpeta (2)\calculadora\calculadora\obj\x86\Debug\calculadora.Properties.Resources.resources
+C:\Users\Dell-Laptop\Desktop\Nueva carpeta (2)\calculadora\calculadora\obj\x86\Debug\calculadora.csproj.GenerateResource.cache
+C:\Users\Dell-Laptop\Desktop\Nueva carpeta (2)\calculadora\calculadora\obj\x86\Debug\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Dell-Laptop\Desktop\Nueva carpeta (2)\calculadora\calculadora\obj\x86\Debug\calculadora.exe
+C:\Users\Dell-Laptop\Desktop\Nueva carpeta (2)\calculadora\calculadora\obj\x86\Debug\calculadora.pdb
